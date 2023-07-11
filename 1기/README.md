@@ -3,7 +3,8 @@
 
 | 이름 | 전공 | 과제 제출 현황 | 비고 |
 | :---: | :---: | :---: | :---: |
-| | | | |
+| 김동현 | 소프트웨어학과 | [Link](https://github.com/mlads-gachon/assignment/blob/main/1%EA%B8%B0/%EA%B9%80%EB%8F%99%ED%98%84/README.md) | |
+| 조준우 | 컴퓨터공학과 | | |
 
 
 <!--
