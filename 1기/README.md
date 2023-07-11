@@ -7,5 +7,5 @@
 
 
 <!--
-과제 제출 현황은 각 동아리원 폴더 README.md(Assignment Submission Status)를 링크로 달아주세요
+과제 제출 현황은 각 스터디원 폴더 README.md(Assignment Submission Status)를 링크로 달아주세요
 -->
